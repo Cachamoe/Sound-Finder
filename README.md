@@ -2,7 +2,7 @@
 
 ![](https://github.com/arrow913/prodject/blob/master/Screen%20Shot%202020-09-22%20at%208.50.04%20AM.png)
 
-## Overview
+## Overview:
 This is a website that allows users to find their favorite music artists, movies, or TV shows by search. It also provides a list of related media as well as a Youtube video. 
 
 Here is a link to the deployed project: [https://arrow913.github.io/soundfinder/] 
@@ -16,5 +16,5 @@ Here is a link to the deployed project: [https://arrow913.github.io/soundfinder/
 HTML, CSS, Javascript, Foundations, Bootstrap, Granim, jQuery 
 
 
-## Authors
+## Authors:
 William (arrow913), Carson (carsonsavage), Caleb (Cachamoe)
