@@ -15,6 +15,8 @@ Here is a link to the deployed project: [https://arrow913.github.io/soundfinder/
 ## Programs:
 HTML, CSS, Javascript, Foundations, Bootstrap, Granim, jQuery 
 
+## License 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 ## Authors:
 William (arrow913), Carson (carsonsavage), Caleb (Cachamoe)
