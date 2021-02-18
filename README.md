@@ -12,7 +12,7 @@ Here is a link to the deployed project: [https://arrow913.github.io/soundfinder/
 2) YouTube for video integration
 3) Bandsintown for live event dates and info
 
-## Programs
+## Technologies
 HTML, CSS, Javascript, Foundations, Bootstrap, Granim, jQuery 
 
 ## License 
